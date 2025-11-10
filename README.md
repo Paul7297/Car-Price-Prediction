@@ -4,9 +4,11 @@ using R language
 
 ### 📘 Description
 This project, originally developed on Kaggle, predicts car prices using machine learning models in R and groups similar cars using K-Means clustering.
+### project link 
+[kaggle:Code](https://www.kaggle.com/code/paul4808/r-mini-project/edit)
 
 ### 📊 Dataset
-[Kaggle: Car Price Prediction Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+[Kaggle: Car Price Prediction Dataset](https://www.kaggle.com/datasets/paul4808/car-prediction)
 
 ### ⚙️ Tools and Libraries
 - R (tidyverse, ggplot2, randomForest, cluster, factoextra)
